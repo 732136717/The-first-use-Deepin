@@ -2,7 +2,8 @@
 1.首先我们去vmware官网查找并下载安装包（bundle文件）
 ![Image text](https://raw.githubusercontent.com/732136717/The-first-use-Deepin/master/image/%E4%B8%8B%E8%BD%BD%E4%BF%A1%E6%81%AF%E6%88%AA%E5%9B%BE.png)
 2.如果之前没有执行过的话呢就执行一下吧： sudo apt install build-essential
-3.执行安装命令，这里用
+
+3.我们cd到安装程序的下载好的目录里面，执行安装命令，这里用
 
 ./VMware-Workstation-Full-15.5.2-15785246.x86_64.bundle --console --eulas-agreed --required
 
